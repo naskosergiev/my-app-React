@@ -5,25 +5,25 @@ function AppHeader() {
     <header className="AppHeader">
       <section>
         <article className="logo">
-          <a href="#">LOGO</a>
+          <a href="home">LOGO</a>
         </article>
       </section>
       <section className="con-navbar">
         <article className="navbar">
           <ul>
             <li>
-              <a className="active" href="#">
+              <a className="active" href="home">
                 Home
               </a>
             </li>
             <li>
-              <a href="#">About Us</a>
+              <a href="home">About Us</a>
             </li>
             <li>
-              <a href="#">Books</a>
+              <a href="home">Books</a>
             </li>
             <li>
-              <a href="#">Contacts</a>
+              <a href="home">Contacts</a>
             </li>
           </ul>
         </article>

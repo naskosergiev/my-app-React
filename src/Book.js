@@ -23,7 +23,7 @@ const Book = ({ img, title, author }) => {
       <h1 onClick={() => console.log(title)}>{title}</h1>
       <h4>{author}</h4>
       <button type="button" onClick={clickHandler}>
-        bay
+        buy
       </button>
       <button type="button" onClick={() => complexExample(author)}>
         more complex example
