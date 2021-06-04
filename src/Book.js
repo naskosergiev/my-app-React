@@ -26,7 +26,7 @@ const Book = ({ img, title, author }) => {
         buy
       </button>
       <button type="button" onClick={() => complexExample(author)}>
-        more complex example
+        more
       </button>
     </article>
   );
